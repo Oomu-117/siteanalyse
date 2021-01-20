@@ -1,0 +1,29 @@
+html, body {
+	background-image: url("backgroundlab.jpg");
+}
+.navbar-nav {
+	height: 100%;
+}
+.titre {
+	letter-spacing: 5px;
+	font-size: 50px;
+	font-family: 'Bebas Neue', cursive;
+}
+#contenu {
+	color: rgb(255, 255, 255);
+	margin: 0 auto;
+	text-align: center;
+	list-style-position: inside;
+	text-align: justify;
+	width: 600px;
+	margin-top: 70px;
+	padding: 10px;
+	border-style: solid;
+	background-color: rgb(0,0,0);
+}
+#fond {
+	margin-top: 70px;
+	font-size: 25px;
+	color: rgb(255, 255, 255);
+	text-align: center;
+}
